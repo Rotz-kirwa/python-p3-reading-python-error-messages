@@ -1,3 +1,3 @@
-#!/usr/bin/env python3
-
-wrong_type = 'abc' + 123
+# lib/a_type_error.py
+number_sum = 2 + 3  # Adding two numbers (integer addition)
+print(number_sum)
